@@ -1,7 +1,7 @@
 {
-  "name": "Space Shooter",
-  "short_name": "Space Shooter",
-  "description": "Fast space shooter game with bosses and 3 difficulty modes",
+  "name": "Vyom Strike",
+  "short_name": "Vyom Strike",
+  "description": "Fast space shooter with bosses, ship upgrades and daily rewards",
   "start_url": "./index.html",
   "scope": "./",
   "id": "./index.html",
